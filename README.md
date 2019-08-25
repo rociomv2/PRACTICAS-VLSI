@@ -1,4 +1,4 @@
-# PRACTICA-1: Contador binario de 8 bits
+# PRÁCTICA-1: Contador binario de 8 bits
 
 Diseñar un contador binario de 8 bits, que disponga de un botón de reset y otro de inicio-paro.
 
