@@ -1,4 +1,4 @@
-# PRACTICAS-VLSI
+# PRACTICA-1: Contador binario de 8 bits
 
 En este repositorio se encuentran los códigos de las prácticas de laboratorio de VLSI
 
