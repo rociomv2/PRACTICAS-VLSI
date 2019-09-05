@@ -1,5 +1,12 @@
 # PRÁCTICA-2: Registros de Corrimiento
 
+# Equipo:
+Castillo Del Valle Gabriela Aideé,
+Durán Romero José Arturo,
+Landín Martínez Uri Raquel,
+Valdés Vargas Rocío Montserrat
+
+# Descripción:
 Diseñar un sistema de monitoreo de variables físicas que está constituido por 8 sensores. Se desea implementar
 un sistema automático que permita realizar la selección de 4 de los 8 sensores simultáneamente en cada
 instante de tiempo, de tal forma que, en el primer instante, se deberán activar en nivel alto los canales
@@ -10,9 +17,5 @@ inicial, para repetir la secuencia nuevamente.
 Por otra parte, el diseño debe considerar que mediante un selector (switch) la dirección en que se corren los
 bits puede ser invertida respecto al caso anterior. Finalmente, debe existir la posibilidad de regresar al
 sistema a su estado inicial mediante un botón de RESET (señal asíncrona)
-
-Equipo:
-Castillo Del Valle Gabriela Aideé,
-Durán Romero José Arturo,
-Landín Martínez Uri Raquel,
-Valdés Vargas Rocío Montserrat
+# Link del video
+https://www.youtube.com/watch?v=wAH5yIuWSZ0
