@@ -18,4 +18,4 @@ Por otra parte, el diseño debe considerar que mediante un selector (switch) la 
 bits puede ser invertida respecto al caso anterior. Finalmente, debe existir la posibilidad de regresar al
 sistema a su estado inicial mediante un botón de RESET (señal asíncrona)
 # Link del video
-https://www.youtube.com/watch?v=wAH5yIuWSZ0
+https://www.youtube.com/watch?v=jRz9rHqhBTY&rel=0
