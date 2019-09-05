@@ -2,11 +2,11 @@
 
 En este repositorio se encuentran los códigos de las prácticas de laboratorio de VLSI
 
-Equipo:
+#Equipo:
 Castillo Del Valle Gabriela Aideé,
 Durán Romero José Arturo,
 Landín Martínez Uri Raquel,
 Valdés Vargas Rocío Montserrat
 
-Estructura:
+#Estructura:
 Se cuenta con una rama por cada práctica realizada
