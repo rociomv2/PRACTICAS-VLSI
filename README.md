@@ -1,4 +1,4 @@
-# PRÁCTICA-3: Implementación de la máquina de Moore
+# PRÁCTICA-3: Máquina de Moore y de Meally
 
 # Equipo:
 Castillo Del Valle Gabriela Aideé,
