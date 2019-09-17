@@ -16,4 +16,4 @@ Si de nuevo se vacía el tanque, deberá llenarse con la bomba A, y así sucesiv
 
 
 # Link del video
-
+https://youtu.be/Dlq9KswobTU
