@@ -10,4 +10,4 @@ Valdés Vargas Rocío Montserrat
 Se requiere diseñar el sistema de control de vuelo de un UAV. El vehículo cuenta con una unidad de medición inercial equipada con dos sensores, uno para el hemisferio derecho (Sd) y otro para el izquierdo (Si), con ambos el UAV deberá tomar la decisión sobre qué movimiento deberá efectuar, los cuales son: “ADELANTE”, “ATRAS”, “GIRO ´ IZQ”, y “GIRO DER”.
 
 # Link del video
-https://www.youtube.com/watch?v=awoGbB1dJDI&rel=0
+https://youtu.be/aYOHw1XlOQY
